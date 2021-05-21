@@ -1,0 +1,19 @@
+body {
+  background-color: goldenrod;
+  color: white;
+}
+
+ul,
+li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+a {
+  color: whitesmoke;
+}
+
+footer {
+  color: darkorange;
+}
+
